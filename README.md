@@ -1,5 +1,5 @@
-# ChatGPT-shenanigans
-Well... ChatGPT Shenanigans!
+# AI-shenanigans
+Well... Claude Code Shenanigans!
 
 ## Prompt Injection Playground
 
