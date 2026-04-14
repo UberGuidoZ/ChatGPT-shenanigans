@@ -12,3 +12,7 @@ Generate bingo cards filled with common ChatGPT-isms and play interactively in y
 ## AI Hallucination Quiz
 
 Can you tell the difference between real facts and AI hallucinations? A CLI trivia game with 40 facts across 6 categories, streak tracking, letter grades, and a full explanation after every answer.
+
+## Prompt Roulette
+
+Spin the wheel and get a wild, absurd, or surprisingly deep AI prompt. Mad libs meets prompt engineering with over 36 million possible combinations across 6 slot categories and 4 complexity levels.
