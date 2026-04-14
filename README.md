@@ -1,2 +1,2 @@
 # ChatGPT-shenanigans
-Well... ChatGPT Shenanigans!
+Well... ChatGPT (and other AI) Shenanigans!
