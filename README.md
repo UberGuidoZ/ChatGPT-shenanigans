@@ -1,6 +1,3 @@
-# ChatGPT-shenanigans
-Well... ChatGPT Shenanigans!
-
 ## AI Bingo Card Generator
 
 Generate bingo cards filled with common ChatGPT-isms and play interactively in your terminal. Spot the AI cliches in real time!
